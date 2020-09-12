@@ -1,4 +1,4 @@
-# c4MmLmum
+# Beer App
 
 Quick start:
 
