@@ -3,8 +3,10 @@
 Quick start:
 
 ```
-$ yarn # npm install
-$ yarn build # npm run build
+$ yarn
+# npm install
+$ yarn build
+# npm run build
 ````
 
 ## Development
@@ -12,5 +14,6 @@ $ yarn build # npm run build
 Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
 ```
-$ yarn watch # npm run watch
+$ yarn watch 
+# npm run watch
 ```
